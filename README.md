@@ -16,9 +16,6 @@ With this app, you can:
 - **CSS** – for styling (I used a pastel theme because... why not?)  
 - **JavaScript** – to make everything work and interact
 
-## 🌐 Live Demo
-You can try it here 👉 [Click to Open App](https://saipoojithanamani.github.io/to-do-list-app/)
-
 ## 📱 Responsive Design
 I made sure it works on mobile too! You can use it on your phone, tablet, or laptop without any layout issues.
 
